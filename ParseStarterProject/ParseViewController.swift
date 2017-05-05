@@ -53,7 +53,7 @@ class ParseViewController: UIViewController, PFLogInViewControllerDelegate, PFSi
     }
     
     func presentLoggedInAlert() {
-        let alertController = UIAlertController(title: "You're logged in", message: "Welcome to Vay.K", preferredStyle: .alert)
+        let alertController = UIAlertController(title: "You're logged in", message: "Welcome", preferredStyle: .alert)
         let OKAction = UIAlertAction(title: "OK", style: .default) { (action) in
             self.dismiss(animated: true, completion: nil)
         }

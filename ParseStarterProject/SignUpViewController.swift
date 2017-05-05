@@ -4,7 +4,7 @@
 //
 //  Created by Mark Moeller on 3/1/17.
 //  Copyright © 2017 Parse. All rights reserved.
-//
+// test
 
 import Foundation
 import ParseFacebookUtilsV4
@@ -27,7 +27,7 @@ class SignUpViewController: PFSignUpViewController {
         let logo = UILabel()
         logo.text = "Hoos Going Poo"
         logo.textColor = UIColor.orange
-        logo.font = UIFont(name: "Pacifico", size: 50)
+        logo.font = UIFont(name: "American Typewriter", size: 50)
         logo.shadowColor = UIColor.lightGray
         logo.shadowOffset = CGSize(width: 2, height: 2)
         signUpView?.logo = logo

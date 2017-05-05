@@ -59,7 +59,6 @@
 		07C27D3F1E2FC9C6004231BF /* FlushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C27D3E1E2FC9C6004231BF /* FlushViewController.swift */; };
 		07CEF4BE1E65234500A688E3 /* LaunchImage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07CEF4BD1E65234500A688E3 /* LaunchImage.xib */; };
 		07CEF4C01E6529FD00A688E3 /* ParseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CEF4BF1E6529FD00A688E3 /* ParseViewController.swift */; };
-		07CEF4C31E667D1D00A688E3 /* Pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 07CEF4C21E667D1D00A688E3 /* Pacifico.ttf */; };
 		07CEF4C51E6789B000A688E3 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CEF4C41E6789B000A688E3 /* SignUpViewController.swift */; };
 		07F37F9F1E620FF00016ED10 /* PodFile in Resources */ = {isa = PBXBuildFile; fileRef = 07F37F9E1E620FF00016ED10 /* PodFile */; };
 		07FD00FB1E46B578001EDEB2 /* MarkerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FD00FA1E46B577001EDEB2 /* MarkerTableViewController.swift */; };
@@ -131,7 +130,6 @@
 		07C27D3E1E2FC9C6004231BF /* FlushViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlushViewController.swift; sourceTree = "<group>"; };
 		07CEF4BD1E65234500A688E3 /* LaunchImage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LaunchImage.xib; path = ../Resources/LaunchImage.xib; sourceTree = "<group>"; };
 		07CEF4BF1E6529FD00A688E3 /* ParseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParseViewController.swift; sourceTree = "<group>"; };
-		07CEF4C21E667D1D00A688E3 /* Pacifico.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Pacifico.ttf; path = "../../../../Downloads/Pacifico 2/Pacifico.ttf"; sourceTree = "<group>"; };
 		07CEF4C41E6789B000A688E3 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		07F37F9E1E620FF00016ED10 /* PodFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PodFile; sourceTree = "<group>"; };
 		07FD00FA1E46B577001EDEB2 /* MarkerTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarkerTableViewController.swift; sourceTree = "<group>"; };
@@ -276,7 +274,6 @@
 			children = (
 				0799E7D01DA71EE2004D610E /* pooImage */,
 				814C3AC81B69877600E307BB /* Images.xcassets */,
-				07CEF4C21E667D1D00A688E3 /* Pacifico.ttf */,
 				07ACA9F31E5BDEA900AC9758 /* globe-1311757.jpg */,
 				07ACA9F51E5BDEB400AC9758 /* map-428639.jpg */,
 				07ACA9F71E5BDEBC00AC9758 /* feet-1031365.jpg */,
@@ -413,7 +410,6 @@
 				0799E7E51DA71EE2004D610E /* basketball.png in Resources */,
 				07ACA9F61E5BDEB400AC9758 /* map-428639.jpg in Resources */,
 				0799E7DA1DA71EE2004D610E /* roses.png in Resources */,
-				07CEF4C31E667D1D00A688E3 /* Pacifico.ttf in Resources */,
 				0799E7E41DA71EE2004D610E /* sunglasses.png in Resources */,
 				0799E7E61DA71EE2004D610E /* gay.png in Resources */,
 				0799E7E21DA71EE2004D610E /* fire.png in Resources */,
